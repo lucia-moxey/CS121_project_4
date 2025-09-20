@@ -1,4 +1,4 @@
-#include "Horse.h"
+#include "horse.h"
 #include <random>
 
 static std::random_device rd;
